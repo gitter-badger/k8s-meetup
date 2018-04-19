@@ -1,5 +1,7 @@
 ## Slides ;)
 
+[![Join the chat at https://gitter.im/lalyos/k8s-meetup](https://badges.gitter.im/lalyos/k8s-meetup.svg)](https://gitter.im/lalyos/k8s-meetup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - bio: epam 13years / sequenceiq / hwx / freelancer
 - show hands ...
 - interactive -> no slides -> spanish
